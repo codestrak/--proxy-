@@ -1,0 +1,2 @@
+npx create-next-app@latest my-gimkit-app
+cd my-gimkit-app
